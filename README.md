@@ -1,2 +1,0 @@
-# ALX
-Learning in ALX
